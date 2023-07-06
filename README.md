@@ -1,2 +1,2 @@
 # CNC-files
- NC files for cutting on the CNC
+ NC (g-code) files for cutting on the MAxT OpenBuilds CNC
